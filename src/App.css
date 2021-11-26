@@ -1,0 +1,35 @@
+nav {
+    background-color: #6325c8;
+    opacity: 0.9;
+    margin: auto
+  }
+
+  .container {
+    padding: 18px 0;
+    
+  }
+  .wrapper {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    font-weight: bold;
+    
+    
+  }
+  .link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 20px;
+    cursor: pointer;
+    
+  }
+
+  .link:hover {
+      color: rgb(255, 0, 0);
+  }
+
+  body {
+    background-image: url('http://www.modishgeek.com/wp-content/uploads/2016/11/YourName-featured.jpg')
+  }
+  
